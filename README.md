@@ -1,8 +1,8 @@
 # **链接整理**
 ## 网络运维方向
 - [每日更新的电信,联通,移动等ISP地址段](https://ispip.clang.cn/)
-- [link](http://note.youdao.com/)
-- [link](http://note.youdao.com/)
+- [linux配置双网卡双路由](http://shanks.blog.51cto.com/3899909/1547715)
+- [Linux双线双网卡双IP双网关设置方法](http://www.cnblogs.com/luckyall/p/6418965.html)
 - [link](http://note.youdao.com/)
 ## 系统运维
 - [nginx反向代理服务器配置](https://github.com/bg6cq/ITTS/blob/master/app/nginx/README.md)
