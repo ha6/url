@@ -1,1 +1,21 @@
-# url
+# **链接整理**
+## 网络运维方向
+- [每日更新的电信,联通,移动等ISP地址段](https://ispip.clang.cn/)
+- [link](http://note.youdao.com/)
+- [link](http://note.youdao.com/)
+- [link](http://note.youdao.com/)
+## 系统运维
+- [nginx反向代理服务器配置](https://github.com/bg6cq/ITTS/blob/master/app/nginx/README.md)
+- [使用Let's encrypt免费SSL证书](https://github.com/bg6cq/ITTS/blob/master/security/ssl/letsencrypt/README.md)
+- [使用git监控www文件并自动恢复](https://github.com/bg6cq/ITTS/blob/master/security/www/git/README.md)
+- [Linux主机防火墙配置](https://github.com/bg6cq/ITTS/blob/master/OS/firewall/README.md)
+- [Windows防火墙限制端口/IP/应用访问的方法以及例外的配置](https://help.aliyun.com/knowledge_detail/40699.html)
+## 指导性文章
+- [系统上线前安全评测技术要求](https://github.com/bg6cq/ITTS/blob/master/security/checklist/README.md)
+- [中山大学信息技术安全管理办法](http://info.sysu.edu.cn/node/160)
+- [中华人民共和国网络安全法](http://www.npc.gov.cn/npc/xinwen/2016-11/07/content_2001605.htm)
+- [中华人民共和国国家安全法](http://www.npc.gov.cn/npc/xinwen/2015-07/07/content_1941161.htm)
+- [中华人民共和国保守国家秘密法](http://www.npc.gov.cn/huiyi/cwh/1114/2010-04/29/content_1571766.htm)
+- [中华人民共和国反恐怖主义法](http://www.npc.gov.cn/npc/xinwen/2015-12/28/content_1957401.htm)
+- [中华人民共和国反间谍法](http://www.npc.gov.cn/npc/xinwen/2014-11/02/content_1884660.htm)
+- [刑法修正案（九）](http://www.npc.gov.cn/npc/xinwen/2015-08/31/content_1945587.htm)
