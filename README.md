@@ -3,7 +3,7 @@
 - [每日更新的电信,联通,移动等ISP地址段](https://ispip.clang.cn/)
 - [linux配置双网卡双路由](http://shanks.blog.51cto.com/3899909/1547715)
 - [Linux双线双网卡双IP双网关设置方法](http://www.cnblogs.com/luckyall/p/6418965.html)
-- [link](http://note.youdao.com/)
+- [Psping四大功能介绍](http://winhe.blog.51cto.com/7547741/1742633)
 ## 系统运维
 - [nginx反向代理服务器配置](https://github.com/bg6cq/ITTS/blob/master/app/nginx/README.md)
 - [使用Let's encrypt免费SSL证书](https://github.com/bg6cq/ITTS/blob/master/security/ssl/letsencrypt/README.md)
