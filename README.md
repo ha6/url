@@ -19,3 +19,4 @@
 - [中华人民共和国反恐怖主义法](http://www.npc.gov.cn/npc/xinwen/2015-12/28/content_1957401.htm)
 - [中华人民共和国反间谍法](http://www.npc.gov.cn/npc/xinwen/2014-11/02/content_1884660.htm)
 - [刑法修正案（九）](http://www.npc.gov.cn/npc/xinwen/2015-08/31/content_1945587.htm)
+- [关于做好党的十九大期间网络安全工作的通知](http://www.xatzy.cn/info/1082/6026.htm)
