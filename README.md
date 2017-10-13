@@ -28,3 +28,5 @@
 - [owncloud-ova](https://appcenter.software-univention.de/univention-apps/current/owncloud/Univention-App-owncloud-ESX.ova)
 - [使用Nextcloud提供私有网盘服务](https://github.com/bg6cq/ITTS/tree/master/app/nextcloud)
 - [Nextcloud-ova](https://cloud.techandme.se/s/whxC00V1I0l4CY8/download?path=%2F&files=Nextcloud_Community_VM_PRODUCTION.ova)
+## 工具书籍
+- [Git recipes in Chinese. 高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
