@@ -23,3 +23,8 @@
 ## IPV6方向
 - [关于IPv6自动配置及M、O比特的小结](http://blog.sina.com.cn/s/blog_5fe9c7f80102vnkl.html)
 - [IPv6下的DHCP](http://blog.csdn.net/u013889753/article/details/37877243)
+## 系统工具类
+- [Seafile 安装脚本](https://github.com/haiwen/seafile-server-installer-cn)
+- [owncloud-ova](https://appcenter.software-univention.de/univention-apps/current/owncloud/Univention-App-owncloud-ESX.ova)
+- [使用Nextcloud提供私有网盘服务](https://github.com/bg6cq/ITTS/tree/master/app/nextcloud)
+- [Nextcloud-ova](https://cloud.techandme.se/s/whxC00V1I0l4CY8/download?path=%2F&files=Nextcloud_Community_VM_PRODUCTION.ova)
