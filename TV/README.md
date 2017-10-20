@@ -7,6 +7,10 @@
 
 - [Nginx实现HTTP负载均衡和TCP负载均衡（官方和OpenResty两种负载配置）](http://www.cnblogs.com/tinywan/p/6560889.html)
 - [Fork版nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module)
+- [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)
+- [nginx-rtmp-module/wiki](https://github.com/arut/nginx-rtmp-module/wiki/Directives)
+- [淘宝跨域文件](view-source:http://www.taobao.com/crossdomain.xml)
+- [关于跨域策略文件crossdomain.xml文件](http://blog.csdn.net/summerhust/article/details/7721627)
 
 ----------
 
